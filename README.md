@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Plebeu, vai um café?
+## Oiii! Eu sou o Plebeu, vai um café?
  <div>
   <a href="https://github.com/Plebeu-code">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plebeu-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
