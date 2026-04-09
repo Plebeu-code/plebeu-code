@@ -100,7 +100,17 @@ const plebeu = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=plebeu-code&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15)](https://github.com/Plebeu-code)
+![SaaS from Scratch](https://img.shields.io/badge/🚀_SaaS_do_Zero-Concluído-FFB800?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![AI Pipeline](https://img.shields.io/badge/🤖_AI_Pipeline-Whisper+Claude+Remotion-FFB800?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Full Stack](https://img.shields.io/badge/⚡_Full_Stack-Next.js+TypeScript-FFB800?style=for-the-badge&labelColor=0d1117)
+
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-Publicado-FFB800?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Video Processing](https://img.shields.io/badge/🎬_Video_AI-FFmpeg+Dubbing-FFB800?style=for-the-badge&labelColor=0d1117)
+&nbsp;
+![Builder](https://img.shields.io/badge/🛠️_Builder-Things_that_work-FFB800?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
