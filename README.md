@@ -73,13 +73,6 @@ const plebeu = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=plebeu-code&show_icons=true&theme=github_dark&title_color=FFB800&icon_color=FFB800&border_color=30363d&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plebeu-code&layout=compact&langs_count=6&theme=github_dark&title_color=FFB800&border_color=30363d&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=plebeu-code&theme=github-dark&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=888888&dates=888888&border=30363d&background=0D1117)](https://github.com/Plebeu-code)
 
 </div>
