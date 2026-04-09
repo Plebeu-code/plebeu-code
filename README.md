@@ -33,10 +33,8 @@ const plebeu = {
 ## 🔥 Construindo agora
 
 <a href="https://github.com/Plebeu-code/smart-editor">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=plebeu-code&repo=smart-editor&theme=github_dark&title_color=FFB800&icon_color=FFB800&border_color=30363d&bg_color=0d1117" />
+  <img src="https://gh-card.dev/repos/Plebeu-code/smart-editor.svg?fullname=" alt="smart-editor" />
 </a>
-
-<br clear="left"/>
 
 > Upload raw footage → **Whisper** transcreve → **Claude** gera cenas → **Remotion** renderiza → vídeo vertical pronto.  
 > `Next.js` · `TypeScript` · `OpenAI` · `Anthropic` · `FFmpeg` · `TailwindCSS`
@@ -102,7 +100,7 @@ const plebeu = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=plebeu-code&theme=darkhub&no-frame=true&column=7&margin-w=8)](https://github.com/Plebeu-code)
+[![trophy](https://github-profile-trophy.vercel.app/?username=plebeu-code&theme=darkhub&no-frame=true&column=-1&margin-w=15&margin-h=15)](https://github.com/Plebeu-code)
 
 </div>
 
@@ -121,7 +119,7 @@ const plebeu = {
 
 <div align="center">
 
-![Snake](https://github.com/Plebeu-code/plebeu-code/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/Plebeu-code/plebeu-code/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
